@@ -8,21 +8,21 @@ $byline: 0.75rem;//75%
 
 
 
-font-family: 'Bevan', cursive;
 
-font-family: 'Open Sans', sans-serif;
-
-font-family: 'PT Sans', sans-serif;
 
 
 
 body{
-  font-family:
+
+font-family: 'Open Sans', sans-serif;
+
+
   font-size: 16px;
 }
 h1{
 font-size: $headline-text;
-
+font-family: 'Bevan', cursive;
+font-size: 26px;
 }
 
 p{
